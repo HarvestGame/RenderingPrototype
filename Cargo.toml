@@ -1,0 +1,8 @@
+[package]
+name = "sphere_prototype"
+version = "0.1.0"
+authors = ["ethan"]
+
+[dependencies]
+glium = "*"
+nalgebra = "*"
